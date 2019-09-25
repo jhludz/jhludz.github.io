@@ -322,3 +322,9 @@ footer {
     color:#444;
   }
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
